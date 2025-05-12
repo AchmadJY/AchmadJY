@@ -30,19 +30,14 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=donusername&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=donusername&theme=tokyonight&hide_border=true" width="48%" />
-</p>
 
 ---
 
 ### 📫 Let's Connect
 
 <p align="left">
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://discordapp.com/users/yourid"><img src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white" /></a>
+  <a href="https://discord.gg/CCCACG2sPE"><img src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white" /></a>
+  <a href="https://youtube.com/@achmadjy"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white" /></a>
 </p>
 
 ---
